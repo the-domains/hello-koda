@@ -1,0 +1,28 @@
+name: Hello Koda
+favicon: null
+layout_spectrum: 0.9708743738010526
+typography_spectrum: 0.7777398482430726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6436325253453106
+  lightness: 0.2857681626919657
+  saturation: 0.992574495729059
+  rhythmicContrast: 0.29245695006102324
+purpose: []
